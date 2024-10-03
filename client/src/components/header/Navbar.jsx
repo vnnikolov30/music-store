@@ -45,7 +45,7 @@ export default function Nav() {
                 radius="sm"
                 variant="light"
               >
-                Instruments
+                Categories
               </Button>
             </DropdownTrigger>
           </NavbarItem>
